@@ -1,0 +1,154 @@
+{
+  "cdmx": {
+    "id": "cdmx",
+    "title": "CIUDAD DE MÉXICO",
+    "subtitle": "Descubre la riqueza cultural e histórica de la capital mexicana",
+    "heroImage": "/mundo-turistico/CDMX.jpg",
+    "heroImageAlt": "Ciudad de México",
+    "carouselImages": [
+      {
+        "src": "/mundo-turistico/CDMX/catedral.jpg",
+        "alt": "Catedral de la Ciudad de México"
+      },
+      {
+        "src": "/mundo-turistico/CDMX/museo-nacional.jpg",
+        "alt": "Museo Nacional de Antropología"
+      },
+      {
+        "src": "/mundo-turistico/CDMX/teotihuacan.jpg",
+        "alt": "Pirámides de Teotihuacán"
+      },
+      {
+        "src": "/mundo-turistico/CDMX/xochimilco.jpg",
+        "alt": "Xochimilco"
+      }
+    ],
+    "sectionTitle": "Traslados y Tours",
+    "traslados": [
+      {
+        "title": "Traslados desde y hacia el aeropuerto",
+        "description": "Servicios compartidos o privados - para individuales o grupos"
+      }
+    ],
+    "toursSectionTitle": "Tours en Ciudad de México y Alrededores",
+    "tours": [
+      {
+        "title": "Tour Ciudad y Museo Antropología",
+        "duration": "5 hrs"
+      },
+      {
+        "title": "Pirámides y Basílica de Guadalupe",
+        "duration": "6 hrs"
+      },
+      {
+        "title": "Tour de Ciudad y Pirámides",
+        "duration": "10 hrs",
+        "description": "Para gente con prisa"
+      },
+      {
+        "title": "Tour Ciudad AM y Xochimilco PM",
+        "duration": "10 hrs",
+        "description": "Para gente con prisa"
+      },
+      {
+        "title": "Diego Rivera y Frida Kahlo",
+        "duration": "5 hrs"
+      }
+    ],
+    "customTours": {
+      "description": "Podemos diseñar tours a la medida de su tiempo y preferencias - para individuales o grupos.",
+      "minimum": "Todas las excursiones operan con un mínimo de 2 pasajeros."
+    },
+    "recommendedDestinos": [
+      {
+        "title": "Chihuahua",
+        "href": "/destinos/chihuahua",
+        "image": "/mundo-turistico/CHIHUAHUA/hero.jpg",
+        "alt": "Chihuahua"
+      },
+      {
+        "title": "África",
+        "href": "/destinos/africa",
+        "image": "/mundo-turistico/africa.jpg",
+        "alt": "África"
+      },
+      {
+        "title": "Europa",
+        "href": "/destinos/europa",
+        "image": "/mundo-turistico/europa.webp",
+        "alt": "Europa"
+      }
+    ]
+  },
+  "chihuahua": {
+    "id": "chihuahua",
+    "title": "CHIHUAHUA",
+    "subtitle": "Descubre la majestuosidad del norte de México y sus maravillas naturales",
+    "heroImage": "/mundo-turistico/CHIHUAHUA/hero.jpg",
+    "heroImageAlt": "Chihuahua",
+    "carouselImages": [
+      {
+        "src": "/mundo-turistico/CHIHUAHUA/ch-1.jpg",
+        "alt": "Chihuahua"
+      },
+      {
+        "src": "/mundo-turistico/CHIHUAHUA/ch-2.jpg",
+        "alt": "Chihuahua"
+      },
+      {
+        "src": "/mundo-turistico/CHIHUAHUA/hero.jpg",
+        "alt": "Chihuahua"
+      }
+    ],
+    "sectionTitle": "Traslados y Tours",
+    "traslados": [
+      {
+        "title": "Traslados desde y hacia el aeropuerto",
+        "description": "Servicios compartidos o privados - para individuales o grupos"
+      }
+    ],
+    "toursSectionTitle": "Tours en Chihuahua y Alrededores",
+    "tours": [
+      {
+        "title": "Tour Ciudad",
+        "duration": "4 hrs"
+      },
+      {
+        "title": "Campos Menonitas",
+        "duration": "6 hrs"
+      },
+      {
+        "title": "Tren \"El Chepe\" al Cañón del Cobre",
+        "duration": "Full Day"
+      },
+      {
+        "title": "Tour a las Misiones",
+        "duration": "5 hrs"
+      }
+    ],
+    "customTours": {
+      "description": "Podemos diseñar tours a la medida de su tiempo y preferencias - para individuales o grupos.",
+      "minimum": "Todas las excursiones operan con un mínimo de 2 pasajeros."
+    },
+    "recommendedDestinos": [
+      {
+        "title": "CDMX",
+        "href": "/destinos/cdmx",
+        "image": "/mundo-turistico/CDMX.jpg",
+        "alt": "Ciudad de México"
+      },
+      {
+        "title": "Cruceros",
+        "href": "/destinos/cruceros",
+        "image": "/mundo-turistico/cruscero.jpg",
+        "alt": "Cruceros"
+      },
+      {
+        "title": "Europa",
+        "href": "/destinos/europa",
+        "image": "/mundo-turistico/europa.webp",
+        "alt": "Europa"
+      }
+    ]
+  }
+}
