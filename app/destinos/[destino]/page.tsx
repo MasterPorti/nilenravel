@@ -74,7 +74,7 @@ export default async function DestinoPage({ params }: PageProps) {
       <Header />
 
       {/* Hero Section */}
-      <section className="relative w-full h-[400px] md:h-[500px] overflow-hidden">
+      <section className="relative w-full h-[200px] md:h-[250px] overflow-hidden">
         <Image
           src={destinoData.heroImage}
           alt={destinoData.heroImageAlt}
@@ -101,7 +101,7 @@ export default async function DestinoPage({ params }: PageProps) {
           <div className="max-w-7xl mx-auto">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
               {/* Left Side - 50% - All Information */}
-              <div className="bg-white rounded-xl shadow-xl p-6 md:p-8 flex flex-col">
+              <div className="bg-white rounded-xl shadow-xl p-6 md:p-8">
                 <div className="mb-5">
                   <h2 className="text-2xl md:text-3xl font-bold text-[#05164d] mb-2">
                     {destinoData.sectionTitle}
@@ -109,7 +109,7 @@ export default async function DestinoPage({ params }: PageProps) {
                   <div className="w-20 h-1 bg-[#05164d]"></div>
                 </div>
 
-                <div className="flex-1 space-y-5">
+                <div className="space-y-5">
                   {/* Traslados */}
                   {destinoData.traslados.map(
                     (traslado: Traslado, index: number) => (
